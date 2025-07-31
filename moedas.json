@@ -1,0 +1,802 @@
+[
+  {
+    "nome": "Moeda #1",
+    "preco": 633.68,
+    "raridade": "Rara",
+    "cor": "blue",
+    "epoca": "Egito Antigo",
+    "imagem": "imagens/moeda1.jpg"
+  },
+  {
+    "nome": "Moeda #2",
+    "preco": 3400.24,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Império Bizantino",
+    "imagem": "imagens/moeda2.jpg"
+  },
+  {
+    "nome": "Moeda #3",
+    "preco": 4028.53,
+    "raridade": "Lendária",
+    "cor": "orange",
+    "epoca": "Império Bizantino",
+    "imagem": "imagens/moeda3.jpg"
+  },
+  {
+    "nome": "Moeda #4",
+    "preco": 1635.9,
+    "raridade": "Épica",
+    "cor": "purple",
+    "epoca": "Grécia Antiga",
+    "imagem": "imagens/moeda4.jpg"
+  },
+  {
+    "nome": "Moeda #5",
+    "preco": 233.64,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Período Napoleônico",
+    "imagem": "imagens/moeda5.jpg"
+  },
+  {
+    "nome": "Moeda #6",
+    "preco": 2116.4,
+    "raridade": "Rara",
+    "cor": "blue",
+    "epoca": "China Imperial",
+    "imagem": "imagens/moeda6.jpg"
+  },
+  {
+    "nome": "Moeda #7",
+    "preco": 1037.51,
+    "raridade": "Lendária",
+    "cor": "orange",
+    "epoca": "China Imperial",
+    "imagem": "imagens/moeda7.jpg"
+  },
+  {
+    "nome": "Moeda #8",
+    "preco": 798.81,
+    "raridade": "Épica",
+    "cor": "purple",
+    "epoca": "Antiguidade",
+    "imagem": "imagens/moeda8.jpg"
+  },
+  {
+    "nome": "Moeda #9",
+    "preco": 1433.39,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda9.jpg"
+  },
+  {
+    "nome": "Moeda #10",
+    "preco": 2251.06,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Idade Média",
+    "imagem": "imagens/moeda10.jpg"
+  },
+  {
+    "nome": "Moeda #11",
+    "preco": 4722.45,
+    "raridade": "Rara",
+    "cor": "blue",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda11.jpg"
+  },
+  {
+    "nome": "Moeda #12",
+    "preco": 1090.86,
+    "raridade": "Lendária",
+    "cor": "orange",
+    "epoca": "Período Napoleônico",
+    "imagem": "imagens/moeda12.jpg"
+  },
+  {
+    "nome": "Moeda #13",
+    "preco": 1667.71,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Grécia Antiga",
+    "imagem": "imagens/moeda13.jpg"
+  },
+  {
+    "nome": "Moeda #14",
+    "preco": 4320.0,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Período Napoleônico",
+    "imagem": "imagens/moeda14.jpg"
+  },
+  {
+    "nome": "Moeda #15",
+    "preco": 3020.0,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Antiguidade",
+    "imagem": "imagens/moeda15.jpg"
+  },
+  {
+    "nome": "Moeda #16",
+    "preco": 3217.05,
+    "raridade": "Divina",
+    "cor": "gold",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda16.jpg"
+  },
+  {
+    "nome": "Moeda #17",
+    "preco": 941.62,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Egito Antigo",
+    "imagem": "imagens/moeda17.jpg"
+  },
+  {
+    "nome": "Moeda #18",
+    "preco": 4977.38,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda18.jpg"
+  },
+  {
+    "nome": "Moeda #19",
+    "preco": 2519.77,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Império Bizantino",
+    "imagem": "imagens/moeda19.jpg"
+  },
+  {
+    "nome": "Moeda #20",
+    "preco": 1451.68,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Idade Moderna",
+    "imagem": "imagens/moeda20.jpg"
+  },
+  {
+    "nome": "Moeda #21",
+    "preco": 3491.51,
+    "raridade": "Épica",
+    "cor": "purple",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda21.jpg"
+  },
+  {
+    "nome": "Moeda #22",
+    "preco": 2016.6,
+    "raridade": "Rara",
+    "cor": "blue",
+    "epoca": "Império Bizantino",
+    "imagem": "imagens/moeda22.jpg"
+  },
+  {
+    "nome": "Moeda #23",
+    "preco": 4363.52,
+    "raridade": "Épica",
+    "cor": "purple",
+    "epoca": "China Imperial",
+    "imagem": "imagens/moeda23.jpg"
+  },
+  {
+    "nome": "Moeda #24",
+    "preco": 3529.84,
+    "raridade": "Antiga",
+    "cor": "brown",
+    "epoca": "Período Napoleônico",
+    "imagem": "imagens/moeda24.jpg"
+  },
+  {
+    "nome": "Moeda #25",
+    "preco": 3006.52,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Império Bizantino",
+    "imagem": "imagens/moeda25.jpg"
+  },
+  {
+    "nome": "Moeda #26",
+    "preco": 78.47,
+    "raridade": "Épica",
+    "cor": "purple",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda26.jpg"
+  },
+  {
+    "nome": "Moeda #27",
+    "preco": 3690.74,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "China Imperial",
+    "imagem": "imagens/moeda27.jpg"
+  },
+  {
+    "nome": "Moeda #28",
+    "preco": 2028.6,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Antiguidade",
+    "imagem": "imagens/moeda28.jpg"
+  },
+  {
+    "nome": "Moeda #29",
+    "preco": 3846.22,
+    "raridade": "Rara",
+    "cor": "blue",
+    "epoca": "Século XX",
+    "imagem": "imagens/moeda29.jpg"
+  },
+  {
+    "nome": "Moeda #30",
+    "preco": 3424.31,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Século XX",
+    "imagem": "imagens/moeda30.jpg"
+  },
+  {
+    "nome": "Moeda #31",
+    "preco": 4676.51,
+    "raridade": "Divina",
+    "cor": "gold",
+    "epoca": "Império Romano",
+    "imagem": "imagens/moeda31.jpg"
+  },
+  {
+    "nome": "Moeda #32",
+    "preco": 745.58,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Antiguidade",
+    "imagem": "imagens/moeda32.jpg"
+  },
+  {
+    "nome": "Moeda #33",
+    "preco": 4487.42,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Período Napoleônico",
+    "imagem": "imagens/moeda33.jpg"
+  },
+  {
+    "nome": "Moeda #34",
+    "preco": 1107.77,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Renascimento",
+    "imagem": "imagens/moeda34.jpg"
+  },
+  {
+    "nome": "Moeda #35",
+    "preco": 358.52,
+    "raridade": "Rara",
+    "cor": "blue",
+    "epoca": "Antiguidade",
+    "imagem": "imagens/moeda35.jpg"
+  },
+  {
+    "nome": "Moeda #36",
+    "preco": 4602.39,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Império Romano",
+    "imagem": "imagens/moeda36.jpg"
+  },
+  {
+    "nome": "Moeda #37",
+    "preco": 712.56,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Século XX",
+    "imagem": "imagens/moeda37.jpg"
+  },
+  {
+    "nome": "Moeda #38",
+    "preco": 3491.61,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Período Napoleônico",
+    "imagem": "imagens/moeda38.jpg"
+  },
+  {
+    "nome": "Moeda #39",
+    "preco": 1654.02,
+    "raridade": "Épica",
+    "cor": "purple",
+    "epoca": "China Imperial",
+    "imagem": "imagens/moeda39.jpg"
+  },
+  {
+    "nome": "Moeda #40",
+    "preco": 223.29,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Período Napoleônico",
+    "imagem": "imagens/moeda40.jpg"
+  },
+  {
+    "nome": "Moeda #41",
+    "preco": 3527.7,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Idade Média",
+    "imagem": "imagens/moeda41.jpg"
+  },
+  {
+    "nome": "Moeda #42",
+    "preco": 3979.31,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Século XX",
+    "imagem": "imagens/moeda42.jpg"
+  },
+  {
+    "nome": "Moeda #43",
+    "preco": 119.57,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Idade Moderna",
+    "imagem": "imagens/moeda43.jpg"
+  },
+  {
+    "nome": "Moeda #44",
+    "preco": 2290.08,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Império Bizantino",
+    "imagem": "imagens/moeda44.jpg"
+  },
+  {
+    "nome": "Moeda #45",
+    "preco": 167.64,
+    "raridade": "Épica",
+    "cor": "purple",
+    "epoca": "Antiguidade",
+    "imagem": "imagens/moeda45.jpg"
+  },
+  {
+    "nome": "Moeda #46",
+    "preco": 1717.01,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Império Bizantino",
+    "imagem": "imagens/moeda46.jpg"
+  },
+  {
+    "nome": "Moeda #47",
+    "preco": 2393.47,
+    "raridade": "Épica",
+    "cor": "purple",
+    "epoca": "Idade Moderna",
+    "imagem": "imagens/moeda47.jpg"
+  },
+  {
+    "nome": "Moeda #48",
+    "preco": 456.1,
+    "raridade": "Épica",
+    "cor": "purple",
+    "epoca": "Império Bizantino",
+    "imagem": "imagens/moeda48.jpg"
+  },
+  {
+    "nome": "Moeda #49",
+    "preco": 1936.57,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "China Imperial",
+    "imagem": "imagens/moeda49.jpg"
+  },
+  {
+    "nome": "Moeda #50",
+    "preco": 4100.48,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Século XX",
+    "imagem": "imagens/moeda50.jpg"
+  },
+  {
+    "nome": "Moeda #51",
+    "preco": 541.28,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Império Bizantino",
+    "imagem": "imagens/moeda51.jpg"
+  },
+  {
+    "nome": "Moeda #52",
+    "preco": 2295.82,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Império Bizantino",
+    "imagem": "imagens/moeda52.jpg"
+  },
+  {
+    "nome": "Moeda #53",
+    "preco": 1410.39,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda53.jpg"
+  },
+  {
+    "nome": "Moeda #54",
+    "preco": 2177.46,
+    "raridade": "Rara",
+    "cor": "blue",
+    "epoca": "Idade Moderna",
+    "imagem": "imagens/moeda54.jpg"
+  },
+  {
+    "nome": "Moeda #55",
+    "preco": 19.1,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Idade Média",
+    "imagem": "imagens/moeda55.jpg"
+  },
+  {
+    "nome": "Moeda #56",
+    "preco": 3283.54,
+    "raridade": "Rara",
+    "cor": "blue",
+    "epoca": "Império Romano",
+    "imagem": "imagens/moeda56.jpg"
+  },
+  {
+    "nome": "Moeda #57",
+    "preco": 2736.13,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Renascimento",
+    "imagem": "imagens/moeda57.jpg"
+  },
+  {
+    "nome": "Moeda #58",
+    "preco": 1313.45,
+    "raridade": "Épica",
+    "cor": "purple",
+    "epoca": "Renascimento",
+    "imagem": "imagens/moeda58.jpg"
+  },
+  {
+    "nome": "Moeda #59",
+    "preco": 1457.01,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Idade Média",
+    "imagem": "imagens/moeda59.jpg"
+  },
+  {
+    "nome": "Moeda #60",
+    "preco": 2912.6,
+    "raridade": "Mítica",
+    "cor": "red",
+    "epoca": "Egito Antigo",
+    "imagem": "imagens/moeda60.jpg"
+  },
+  {
+    "nome": "Moeda #61",
+    "preco": 3454.04,
+    "raridade": "Rara",
+    "cor": "blue",
+    "epoca": "Império Romano",
+    "imagem": "imagens/moeda61.jpg"
+  },
+  {
+    "nome": "Moeda #62",
+    "preco": 4711.79,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda62.jpg"
+  },
+  {
+    "nome": "Moeda #63",
+    "preco": 1493.92,
+    "raridade": "Lendária",
+    "cor": "orange",
+    "epoca": "Renascimento",
+    "imagem": "imagens/moeda63.jpg"
+  },
+  {
+    "nome": "Moeda #64",
+    "preco": 1787.31,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Egito Antigo",
+    "imagem": "imagens/moeda64.jpg"
+  },
+  {
+    "nome": "Moeda #65",
+    "preco": 2492.98,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Império Bizantino",
+    "imagem": "imagens/moeda65.jpg"
+  },
+  {
+    "nome": "Moeda #66",
+    "preco": 4318.02,
+    "raridade": "Rara",
+    "cor": "blue",
+    "epoca": "Idade Moderna",
+    "imagem": "imagens/moeda66.jpg"
+  },
+  {
+    "nome": "Moeda #67",
+    "preco": 3094.99,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda67.jpg"
+  },
+  {
+    "nome": "Moeda #68",
+    "preco": 1850.39,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Renascimento",
+    "imagem": "imagens/moeda68.jpg"
+  },
+  {
+    "nome": "Moeda #69",
+    "preco": 4699.06,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda69.jpg"
+  },
+  {
+    "nome": "Moeda #70",
+    "preco": 3824.33,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Século XX",
+    "imagem": "imagens/moeda70.jpg"
+  },
+  {
+    "nome": "Moeda #71",
+    "preco": 3955.06,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Idade Moderna",
+    "imagem": "imagens/moeda71.jpg"
+  },
+  {
+    "nome": "Moeda #72",
+    "preco": 3001.3,
+    "raridade": "Divina",
+    "cor": "gold",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda72.jpg"
+  },
+  {
+    "nome": "Moeda #73",
+    "preco": 4136.9,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Idade Média",
+    "imagem": "imagens/moeda73.jpg"
+  },
+  {
+    "nome": "Moeda #74",
+    "preco": 2641.4,
+    "raridade": "Lendária",
+    "cor": "orange",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda74.jpg"
+  },
+  {
+    "nome": "Moeda #75",
+    "preco": 1736.78,
+    "raridade": "Épica",
+    "cor": "purple",
+    "epoca": "Império Bizantino",
+    "imagem": "imagens/moeda75.jpg"
+  },
+  {
+    "nome": "Moeda #76",
+    "preco": 3645.48,
+    "raridade": "Mítica",
+    "cor": "red",
+    "epoca": "Período Napoleônico",
+    "imagem": "imagens/moeda76.jpg"
+  },
+  {
+    "nome": "Moeda #77",
+    "preco": 1240.26,
+    "raridade": "Lendária",
+    "cor": "orange",
+    "epoca": "Idade Média",
+    "imagem": "imagens/moeda77.jpg"
+  },
+  {
+    "nome": "Moeda #78",
+    "preco": 1076.17,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Idade Moderna",
+    "imagem": "imagens/moeda78.jpg"
+  },
+  {
+    "nome": "Moeda #79",
+    "preco": 2831.68,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda79.jpg"
+  },
+  {
+    "nome": "Moeda #80",
+    "preco": 4237.84,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Idade Moderna",
+    "imagem": "imagens/moeda80.jpg"
+  },
+  {
+    "nome": "Moeda #81",
+    "preco": 4940.04,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda81.jpg"
+  },
+  {
+    "nome": "Moeda #82",
+    "preco": 2926.25,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Império Romano",
+    "imagem": "imagens/moeda82.jpg"
+  },
+  {
+    "nome": "Moeda #83",
+    "preco": 4727.91,
+    "raridade": "Rara",
+    "cor": "blue",
+    "epoca": "Império Bizantino",
+    "imagem": "imagens/moeda83.jpg"
+  },
+  {
+    "nome": "Moeda #84",
+    "preco": 1478.24,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Renascimento",
+    "imagem": "imagens/moeda84.jpg"
+  },
+  {
+    "nome": "Moeda #85",
+    "preco": 3002.21,
+    "raridade": "Rara",
+    "cor": "blue",
+    "epoca": "Grécia Antiga",
+    "imagem": "imagens/moeda85.jpg"
+  },
+  {
+    "nome": "Moeda #86",
+    "preco": 3604.62,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Renascimento",
+    "imagem": "imagens/moeda86.jpg"
+  },
+  {
+    "nome": "Moeda #87",
+    "preco": 788.87,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Império Bizantino",
+    "imagem": "imagens/moeda87.jpg"
+  },
+  {
+    "nome": "Moeda #88",
+    "preco": 2921.99,
+    "raridade": "Mítica",
+    "cor": "red",
+    "epoca": "Idade Moderna",
+    "imagem": "imagens/moeda88.jpg"
+  },
+  {
+    "nome": "Moeda #89",
+    "preco": 3736.9,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Grécia Antiga",
+    "imagem": "imagens/moeda89.jpg"
+  },
+  {
+    "nome": "Moeda #90",
+    "preco": 298.93,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Idade Moderna",
+    "imagem": "imagens/moeda90.jpg"
+  },
+  {
+    "nome": "Moeda #91",
+    "preco": 484.57,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Grécia Antiga",
+    "imagem": "imagens/moeda91.jpg"
+  },
+  {
+    "nome": "Moeda #92",
+    "preco": 1166.62,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Grécia Antiga",
+    "imagem": "imagens/moeda92.jpg"
+  },
+  {
+    "nome": "Moeda #93",
+    "preco": 954.56,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "China Imperial",
+    "imagem": "imagens/moeda93.jpg"
+  },
+  {
+    "nome": "Moeda #94",
+    "preco": 1783.35,
+    "raridade": "Lendária",
+    "cor": "orange",
+    "epoca": "Período Napoleônico",
+    "imagem": "imagens/moeda94.jpg"
+  },
+  {
+    "nome": "Moeda #95",
+    "preco": 162.6,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "Renascimento",
+    "imagem": "imagens/moeda95.jpg"
+  },
+  {
+    "nome": "Moeda #96",
+    "preco": 4454.13,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "Império Otomano",
+    "imagem": "imagens/moeda96.jpg"
+  },
+  {
+    "nome": "Moeda #97",
+    "preco": 1633.86,
+    "raridade": "Rara",
+    "cor": "blue",
+    "epoca": "Período Napoleônico",
+    "imagem": "imagens/moeda97.jpg"
+  },
+  {
+    "nome": "Moeda #98",
+    "preco": 36.08,
+    "raridade": "Comum",
+    "cor": "gray",
+    "epoca": "China Imperial",
+    "imagem": "imagens/moeda98.jpg"
+  },
+  {
+    "nome": "Moeda #99",
+    "preco": 2534.17,
+    "raridade": "Épica",
+    "cor": "purple",
+    "epoca": "Egito Antigo",
+    "imagem": "imagens/moeda99.jpg"
+  },
+  {
+    "nome": "Moeda #100",
+    "preco": 3840.98,
+    "raridade": "Incomum",
+    "cor": "green",
+    "epoca": "China Imperial",
+    "imagem": "imagens/moeda100.jpg"
+  }
+]
